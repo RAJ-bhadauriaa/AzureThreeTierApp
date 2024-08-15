@@ -190,4 +190,9 @@ Let's start building this!
 
 Congratulations! Your site is now live using IIS on Windows Server.
 
+## Further Reading
+
+For detailed insights and learnings from this project, please refer to the [Insights and Learnings](INSIGHTS_AND_LEARNINGS.md) document.
+
+
 
