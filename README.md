@@ -190,6 +190,20 @@ Let's start building this!
 
 Congratulations! Your site is now live using IIS on Windows Server.
 
+Now, any person with internet access should be able to open this site using the public IP or domain name[DNS or Direct Access: Users will access the site via the public IP address of the Web VM unless you set up a DNS to point a domain name to this IP. If you only provide the public IP, other users will need to enter that IP address directly into their browser].
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Further Reading
 
 For detailed insights and learnings from this project, please refer to the [Insights and Learnings](INSIGHTS_AND_LEARNINGS.md) document.
